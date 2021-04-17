@@ -2,6 +2,7 @@
   "name": "RPS",
   "version": "1.0.0",
   "description": "",
+  "main": "js.js",
   "scripts": {
     "build": "parcel build index.html"
   },
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/mintercode/r-p-s#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
+    "bundler": "^0.8.0",
+    "parcel": "*",
+    "parcel-bundler": "^1.12.3"
   }
 }
